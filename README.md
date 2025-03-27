@@ -14,7 +14,7 @@
  
  🌱 I’m currently learning **SQL, HTML, CSS, JS, JQUERY**
 
-💬 Ask me about **... or anything [here](https://github.com/salesp07/salesp07/issues)**
+💬 Ask me about **... or anything [here](https://stackoverflow.com/)**
 
 ⚡ Fun fact **I love Efootball**
 
