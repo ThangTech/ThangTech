@@ -26,4 +26,6 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=thangtech&show_icons=true&locale=en" alt="thangtech" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=thangtech&" alt="thangtech" /></p>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=thangtech&show_icons=true&theme=tokyonight" />
+</p>
