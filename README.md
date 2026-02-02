@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Nguyen Van Thang</h1>
 <h3 align="center">I am a software engineering student</h3>
 
-![Coding GIF](https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExNm45M3licG5vOWx5NzV5Z2F3N2MxenRuamxjemlkcjludTl1dTMyMSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/gXr3j6YAClXFfZABn5/giphy.gif)
+<img width="500" height="500" alt="image" src="https://github.com/user-attachments/assets/a74fef4c-dd35-4f74-9e7f-6c9196129e8e" />
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=thangtech&label=Profile%20views&color=0e75b6&style=flat" alt="thangtech" /> </p>
 
