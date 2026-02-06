@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Nguyen Van Thang</h1>
-<h3 align="center">I am a software engineering student</h3>
+<h3 align="center">I am a software engineering student!</h3>
 
 <img src="https://i.pinimg.com/originals/d0/97/9b/d0979b26cec609049b3d1a3dee5b89b3.gif" alt="Banner" width="100%" />
 
