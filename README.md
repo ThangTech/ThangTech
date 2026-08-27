@@ -36,6 +36,14 @@
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" width="40"/>
   </a>
 </p>
+<p align="center">
+  <a href="https://thang-dev-portfolio.vercel.app/" target="_blank">
+    <img
+      src="https://img.shields.io/badge/View%20My%20Portfolio-00C896?style=for-the-badge&logo=vercel&logoColor=white"
+      alt="Portfolio"
+    />
+  </a>
+</p>
 
 <h3 align="center">Languages and Tools:</h3>
 
