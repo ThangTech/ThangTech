@@ -1,7 +1,9 @@
 <h1 align="center">Hi 👋, I'm Nguyen Van Thang</h1>
 <h3 align="center">I am a software engineering student</h3>
+<p align="center">
+<img width="500" height="249" alt="torres-transparent" src="https://github.com/user-attachments/assets/f61fcf8a-416c-46a7-b2e8-bc1f3565e957" />
+</p>
 
-<img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" alt="Banner" width="100%" />
 
 
 <p align="center">
@@ -63,12 +65,4 @@
 <p align="center">
   <img src="https://github-readme-streak-stats-eight.vercel.app?user=thangtech" alt="streak" />
 </p>
-<p align="center">
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake.svg" />
-  <img alt="github-snake" src="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake.svg" />
-</picture>
-</p>
-
 
